@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView-CRUD</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete">DELETE</string>
+    <string name="name">Name</string>
+    <string name="add">ADD</string>
+    <string name="title_activity_nearby_activity" />
+</resources>
